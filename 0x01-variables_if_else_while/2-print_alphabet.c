@@ -12,10 +12,10 @@
  */
 int main(void)
 {
-char alphabet;
+char letter;
 
-for (alphabet = 'a'; letter <= 'z'; alphabet++)
-putchar(alphabet);
+for (letter = 'a'; letter <= 'z'; letter++)
+putchar(letter);
 
 putchar('\n');
 
