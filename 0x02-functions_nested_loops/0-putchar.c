@@ -1,12 +1,9 @@
 #include "main.h"
-/*
- * File: 0-putchar.c
+
+/**
  * Auth: Mouthafar
- *
- /**
- * main - Prints "_putchar" followed by a new line.
- *
- * Return: Always 0.
+ * Main - Entry point
+ * Return: always 0
  */
 int main(void)
 {
